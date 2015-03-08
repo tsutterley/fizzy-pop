@@ -1,7 +1,7 @@
 {
   "name": "fizzy-pop-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Dark theme based on J Glovier's Fizzy theme",
   "repository": "https://github.com/tsutterley/fizzy-pop",
   "license": "MIT",
