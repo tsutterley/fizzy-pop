@@ -1,9 +1,9 @@
 {
   "name": "fizzy-pop-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/fizzy-pop-syntax",
+  "version": "0.0.1",
+  "description": "Dark theme based on J Glovier's Fizzy theme",
+  "repository": "https://github.com/tsutterley/fizzy-pop",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
